@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shahinur Bashar / Site Title"
+title                    : "Shahinur Bashar"
 title_separator          : "-"
 name                     : &name "Shahinur Bashar"
 description              : &description "personal description"

@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Picture1.jpg"
+  avatar           : "Picture1.jpg"
   name             : "Shahinur Bashar"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate School of Planning, Public Policy and Management"

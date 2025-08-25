@@ -16,5 +16,5 @@ I have authored and co-authored publications on the environmental impacts of ref
 
 I actively present my work at major conferences such as APPAM and the APRU Sustainable Cities & Landscapes Conference. I am also engaged in academic leadership and service, including serving as a journal peer reviewer and mentoring in equity and inclusion programs.
 
-Languages spoken include Bengali, English, Urdu, Hindi, and intermediate Arabic.
+Languages I speak include Bengali, English, Urdu, Hindi, and intermediate Arabic.
 

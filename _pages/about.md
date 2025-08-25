@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! Welcome to my Website!"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
  
+### Welcome to my Website!
 
 I am a Doctoral Candidate in [Planning, Public Policy and Management](https://mnm.uoregon.edu/) at the [University of Oregon](https://www.uoregon.edu/), specializing in urban governance and sustainability, as well as environmental governance in crises. I aim to make an impact in research and policy regarding governance to promote equitable access to sustainable urban mobility, especially for vulnerable groups such as women and informal transport workers. I hold a Master of Public Policy from Oregon State University and a Master's and Bachelor’s degree in Development Studies from the University of Dhaka, Bangladesh.
 

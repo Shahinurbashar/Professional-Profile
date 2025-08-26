@@ -27,4 +27,6 @@ Public Policy Analysis
 - Assisted instructors in curriculum development, including drafting syllabi and designing assessments. 
 - Provided one-on-one mentorship to students, improving course completion rates by 15%.
 
-From 2017 to 2019, I worked as an Instructor of record at Brac University, a leading private university of Bangladesh. 
+
+
+#### From 2017 to 2019, I worked as an Instructor of record at Brac University, a leading private university of Bangladesh. 

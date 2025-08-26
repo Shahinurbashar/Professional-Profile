@@ -13,7 +13,7 @@ Environmental Impacts of Rohingya Refugee Camps in Cox’s Bazar."](https://www.
 Environment, 137, 104504. 
 
 ### Press Coverage
-- [StreetsblogUSA (2025): How climate change is hurting transit ridership] (https://usa.streetsblog.org/2025/03/12/climate-change-is-making-waiting-for-transit-worse-and-its-hurting-ridership) 
+- [StreetsblogUSA (2025): How climate change is hurting transit ridership](https://usa.streetsblog.org/2025/03/12/climate-change-is-making-waiting-for-transit-worse-and-its-hurting-ridership) 
 - [Central Oregon Daily (2025): University of Oregon study reveals climate change's impact on public transit](https://www.centraloregondaily.com/news/regional/uo-study-climate-change-public-transit/article_bc12aa04-f0af-11ef-8118-a791cca77087.html) 
 - [KVAL (2025): University of Oregon study shows how climate change impacts public transit use](https://kval.com/news/local/university-of-oregon-study-shows-how-climate-change-impacts-public-transit-use) 
 - [University of Oregon, OregonNews (2025): UO research looks at how climate is affecting public transportation](https://news.uoregon.edu/content/uo-research-looks-how-climate-affecting-public-transportation) 

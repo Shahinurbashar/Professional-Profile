@@ -33,4 +33,4 @@ Graduate Teaching Assistant (OSU):
   Provided one-on-one mentorship to students.
 
 
-## From 2017 to 2019, I served as an Instructor of Record at Brac University, a leading private university in Bangladesh. 
+## From 2017 to 2019, I served as an Instructor of Record at BRAC University, a leading private university in Bangladesh. 

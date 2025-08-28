@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### Instructor of Record (UO): 
-- Global Sustainable Development
+- Global Sustainable Development:
+- 
 Designed and delivered course content on global sustainability frameworks (e.g., SDGs, climate justice, equitable development) for 40 undergraduate students.
 Facilitated discussions on transnational challenges, emphasizing Global perspectives and community-engaged solutions
 
@@ -32,5 +33,4 @@ Graduate Teaching Assistant (OSU):
   Provided one-on-one mentorship to students.
 
 
-
-From 2017 to 2019, I served as an Instructor of Record at Brac University, a leading private university in Bangladesh. 
+## From 2017 to 2019, I served as an Instructor of Record at Brac University, a leading private university in Bangladesh. 

@@ -24,9 +24,7 @@ Master of Public Administration Capstone
 Graduate Teaching Assistant (OSU): 
 
 Microeconomics 
-
 Macroeconomics
-
 Public Policy Analysis
 
 - Facilitated weekly discussions and graded assignments for 50+ undergraduate students in public policy courses. 

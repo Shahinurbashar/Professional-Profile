@@ -7,7 +7,6 @@ author_profile: true
 
 ### Instructor of Record (UO): 
 - Global Sustainable Development:
-- 
 Designed and delivered course content on global sustainability frameworks (e.g., SDGs, climate justice, equitable development) for 40 undergraduate students.
 Facilitated discussions on transnational challenges, emphasizing Global perspectives and community-engaged solutions
 

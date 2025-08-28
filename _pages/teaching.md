@@ -12,10 +12,10 @@ Global Sustainable Development
 
 Graduate Teaching Assistant (UO): 
 
-Global Sustainable Development  
-Healthy Communities 
-Introduction to Public Policy  
-Master of Public Administration Capstone 
+- Global Sustainable Development  
+- Healthy Communities 
+- Introduction to Public Policy  
+- Master of Public Administration Capstone 
 
 - Led discussion sections and supported course development for over 300 students. 
 - Grade assignments and exams, providing timely and constructive feedback. 
@@ -23,9 +23,9 @@ Master of Public Administration Capstone
 
 Graduate Teaching Assistant (OSU): 
 
-Microeconomics 
-Macroeconomics
-Public Policy Analysis
+- Microeconomics 
+- Macroeconomics
+- Public Policy Analysis
 
 - Facilitated weekly discussions and graded assignments for 50+ undergraduate students in public policy courses. 
 - Assisted instructors in curriculum development, including drafting syllabi and designing assessments. 
